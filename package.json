@@ -1,0 +1,19 @@
+{
+  "name": "arduino",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bufferutil": "1.2.1",
+    "onoff": "^1.0.3",
+    "plotly": "^1.0.5",
+    "serialport": "^2.0.5",
+    "utf-8-validate": "1.2.1",
+    "ws": "1.1.1"
+  }
+}

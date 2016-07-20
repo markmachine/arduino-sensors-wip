@@ -1,0 +1,25 @@
+var serialport = require('serialport');
+var WebSocket = require('ws')
+  , ws = new WebSocket('ws://www.host.com/path');
+ws.on('open', function() {
+    ws.send('something');
+});
+ws.on('message', function(message) {
+    console.log('received: %s', message);
+});
+
+
+
+var portName = '/dev/ttyACM0';
+var sp = new serialport.SerialPort(portName, {
+    baudRate: 115200,//9600,
+    dataBits: 8,
+    parity: 'none',
+    stopBits: 1,
+    flowControl: false,
+    parser: serialport.parsers.readline("\r\n")
+});
+
+sp.on('data', function(input) {
+    console.log(input);
+});
