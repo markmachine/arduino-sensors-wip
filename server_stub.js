@@ -44,17 +44,17 @@ sp.on('data', function(input) {
 	    var value = input.substr(1);
 	    var message;
 	    if (ttype == "A") {
-	        message = { type: "device" }, { verb: "sensed" }, { type: "audio", id: value, view: "scale"};
+	        message = { type: "device", verb: "sensed", type: "audio", id: value, view: "scale"};
 	    } else if (ttype == "L") {
-	        message = { type: "device" }, { verb: "sensed" }, { type: "light", id: value, view: "scale"};
+	        message = { type: "device", verb: "sensed", type: "light", id: value, view: "scale"};
 	    } else if (ttype == "r") {
-	        message = { type: "device" }, { verb: "sensed" }, { type: "range", id: value, view: "cm"};
+	        message = { type: "device", verb: "sensed", type: "range", id: value, view: "cm"};
 	    } else if (ttype == "R") {
-	        message = { type: "device" }, { verb: "sensed" }, { type: "range", id: value, view: "cm"};
+	        message = { type: "device", verb: "sensed", type: "range", id: value, view: "cm"};
 	    } else if (ttype == "m") {
-	        message = { type: "device" }, { verb: "sensed" }, { type: "motion", id: value, view: "start"};
+	        message = { type: "device", verb: "sensed", type: "motion", id: value, view: "start"};
 	    } else if (ttype == "M") {
-	        message = { type: "device" }, { verb: "sensed" }, { type: "motion", id: value, view: "end"};
+	        message = { type: "device", verb: "sensed", type: "motion", id: value, view: "end"};
 	    }
 	    if (message != null) {
 	    	ws.send(JSON.stringify({userName: getID(),data: message}));
