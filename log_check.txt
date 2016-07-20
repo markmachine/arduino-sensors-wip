@@ -1,0 +1,262 @@
+L953
+LIGHT { type: 'device' } { verb: 'sensed' } { type: 'light', id: '953', view: 'scale' }
+50
+L951
+LIGHT { type: 'device' } { verb: 'sensed' } { type: 'light', id: '951', view: 'scale' }
+L950
+LIGHT { type: 'device' } { verb: 'sensed' } { type: 'light', id: '950', view: 'scale' }
+r0
+range { type: 'device' } { verb: 'sensed' } { type: 'range', id: '0', view: 'cm' }
+A551
+AUDIO { type: 'device' } { verb: 'sensed' } { type: 'audio', id: '551', view: 'scale' }
+L951
+LIGHT { type: 'device' } { verb: 'sensed' } { type: 'light', id: '951', view: 'scale' }
+A552
+AUDIO { type: 'device' } { verb: 'sensed' } { type: 'audio', id: '552', view: 'scale' }
+L950
+LIGHT { type: 'device' } { verb: 'sensed' } { type: 'light', id: '950', view: 'scale' }
+L951
+LIGHT { type: 'device' } { verb: 'sensed' } { type: 'light', id: '951', view: 'scale' }
+r0
+range { type: 'device' } { verb: 'sensed' } { type: 'range', id: '0', view: 'cm' }
+A553
+AUDIO { type: 'device' } { verb: 'sensed' } { type: 'audio', id: '553', view: 'scale' }
+A552
+AUDIO { type: 'device' } { verb: 'sensed' } { type: 'audio', id: '552', view: 'scale' }
+L952
+LIGHT { type: 'device' } { verb: 'sensed' } { type: 'light', id: '952', view: 'scale' }
+A553
+AUDIO { type: 'device' } { verb: 'sensed' } { type: 'audio', id: '553', view: 'scale' }
+A552
+AUDIO { type: 'device' } { verb: 'sensed' } { type: 'audio', id: '552', view: 'scale' }
+L951
+LIGHT { type: 'device' } { verb: 'sensed' } { type: 'light', id: '951', view: 'scale' }
+L950
+LIGHT { type: 'device' } { verb: 'sensed' } { type: 'light', id: '950', view: 'scale' }
+A553
+AUDIO { type: 'device' } { verb: 'sensed' } { type: 'audio', id: '553', view: 'scale' }
+A552
+AUDIO { type: 'device' } { verb: 'sensed' } { type: 'audio', id: '552', view: 'scale' }
+A554
+AUDIO { type: 'device' } { verb: 'sensed' } { type: 'audio', id: '554', view: 'scale' }
+r0
+range { type: 'device' } { verb: 'sensed' } { type: 'range', id: '0', view: 'cm' }
+A552
+AUDIO { type: 'device' } { verb: 'sensed' } { type: 'audio', id: '552', view: 'scale' }
+
+L950
+LIGHT { type: 'device' } { verb: 'sensed' } { type: 'light', id: '950', view: 'scale' }
+L951
+LIGHT { type: 'device' } { verb: 'sensed' } { type: 'light', id: '951', view: 'scale' }
+L950
+LIGHT { type: 'device' } { verb: 'sensed' } { type: 'light', id: '950', view: 'scale' }
+r0
+range { type: 'device' } { verb: 'sensed' } { type: 'range', id: '0', view: 'cm' }
+A551
+AUDIO { type: 'device' } { verb: 'sensed' } { type: 'audio', id: '551', view: 'scale' }
+L951
+LIGHT { type: 'device' } { verb: 'sensed' } { type: 'light', id: '951', view: 'scale' }
+A552
+AUDIO { type: 'device' } { verb: 'sensed' } { type: 'audio', id: '552', view: 'scale' }
+L950
+LIGHT { type: 'device' } { verb: 'sensed' } { type: 'light', id: '950', view: 'scale' }
+L951
+LIGHT { type: 'device' } { verb: 'sensed' } { type: 'light', id: '951', view: 'scale' }
+r0
+range { type: 'device' } { verb: 'sensed' } { type: 'range', id: '0', view: 'cm' }
+A553
+AUDIO { type: 'device' } { verb: 'sensed' } { type: 'audio', id: '553', view: 'scale' }
+A552
+AUDIO { type: 'device' } { verb: 'sensed' } { type: 'audio', id: '552', view: 'scale' }
+L952
+LIGHT { type: 'device' } { verb: 'sensed' } { type: 'light', id: '952', view: 'scale' }
+A553
+AUDIO { type: 'device' } { verb: 'sensed' } { type: 'audio', id: '553', view: 'scale' }
+A552
+AUDIO { type: 'device' } { verb: 'sensed' } { type: 'audio', id: '552', view: 'scale' }
+L951
+LIGHT { type: 'device' } { verb: 'sensed' } { type: 'light', id: '951', view: 'scale' }
+L950
+LIGHT { type: 'device' } { verb: 'sensed' } { type: 'light', id: '950', view: 'scale' }
+A553
+AUDIO { type: 'device' } { verb: 'sensed' } { type: 'audio', id: '553', view: 'scale' }
+A552
+AUDIO { type: 'device' } { verb: 'sensed' } { type: 'audio', id: '552', view: 'scale' }
+A554
+AUDIO { type: 'device' } { verb: 'sensed' } { type: 'audio', id: '554', view: 'scale' }
+r0
+range { type: 'device' } { verb: 'sensed' } { type: 'range', id: '0', view: 'cm' }
+A552
+AUDIO { type: 'device' } { verb: 'sensed' } { type: 'audio', id: '552', view: 'scale' }
+A552
+AUDIO { type: 'device' } { verb: 'sensed' } { type: 'audio', id: '552', view: 'scale' }
+A551
+AUDIO { type: 'device' } { verb: 'sensed' } { type: 'audio', id: '551', view: 'scale' }
+L951
+LIGHT { type: 'device' } { verb: 'sensed' } { type: 'light', id: '951', view: 'scale' }
+A552
+AUDIO { type: 'device' } { verb: 'sensed' } { type: 'audio', id: '552', view: 'scale' }
+A553
+AUDIO { type: 'device' } { verb: 'sensed' } { type: 'audio', id: '553', view: 'scale' }
+A551
+AUDIO { type: 'device' } { verb: 'sensed' } { type: 'audio', id: '551', view: 'scale' }
+A552
+AUDIO { type: 'device' } { verb: 'sensed' } { type: 'audio', id: '552', view: 'scale' }
+L950
+LIGHT { type: 'device' } { verb: 'sensed' } { type: 'light', id: '950', view: 'scale' }
+A551
+AUDIO { type: 'device' } { verb: 'sensed' } { type: 'audio', id: '551', view: 'scale' }
+A552
+AUDIO { type: 'device' } { verb: 'sensed' } { type: 'audio', id: '552', view: 'scale' }
+L952
+LIGHT { type: 'device' } { verb: 'sensed' } { type: 'light', id: '952', view: 'scale' }
+r0
+range { type: 'device' } { verb: 'sensed' } { type: 'range', id: '0', view: 'cm' }
+L951
+LIGHT { type: 'device' } { verb: 'sensed' } { type: 'light', id: '951', view: 'scale' }
+A553
+AUDIO { type: 'device' } { verb: 'sensed' } { type: 'audio', id: '553', view: 'scale' }
+A552
+AUDIO { type: 'device' } { verb: 'sensed' } { type: 'audio', id: '552', view: 'scale' }
+A553
+AUDIO { type: 'device' } { verb: 'sensed' } { type: 'audio', id: '553', view: 'scale' }
+A552
+AUDIO { type: 'device' } { verb: 'sensed' } { type: 'audio', id: '552', view: 'scale' }
+L950
+LIGHT { type: 'device' } { verb: 'sensed' } { type: 'light', id: '950', view: 'scale' }
+A553
+AUDIO { type: 'device' } { verb: 'sensed' } { type: 'audio', id: '553', view: 'scale' }
+A552
+AUDIO { type: 'device' } { verb: 'sensed' } { type: 'audio', id: '552', view: 'scale' }
+A553
+AUDIO { type: 'device' } { verb: 'sensed' } { type: 'audio', id: '553', view: 'scale' }
+r0
+range { type: 'device' } { verb: 'sensed' } { type: 'range', id: '0', view: 'cm' }
+A552
+AUDIO { type: 'device' } { verb: 'sensed' } { type: 'audio', id: '552', view: 'scale' }
+L952
+LIGHT { type: 'device' } { verb: 'sensed' } { type: 'light', id: '952', view: 'scale' }
+L951
+LIGHT { type: 'device' } { verb: 'sensed' } { type: 'light', id: '951', view: 'scale' }
+L950
+LIGHT { type: 'device' } { verb: 'sensed' } { type: 'light', id: '950', view: 'scale' }
+A553
+AUDIO { type: 'device' } { verb: 'sensed' } { type: 'audio', id: '553', view: 'scale' }
+L951
+LIGHT { type: 'device' } { verb: 'sensed' } { type: 'light', id: '951', view: 'scale' }
+r0
+range { type: 'device' } { verb: 'sensed' } { type: 'range', id: '0', view: 'cm' }
+L950
+LIGHT { type: 'device' } { verb: 'sensed' } { type: 'light', id: '950', view: 'scale' }
+A554
+AUDIO { type: 'device' } { verb: 'sensed' } { type: 'audio', id: '554', view: 'scale' }
+A553
+AUDIO { type: 'device' } { verb: 'sensed' } { type: 'audio', id: '553', view: 'scale' }
+L951
+LIGHT { type: 'device' } { verb: 'sensed' } { type: 'light', id: '951', view: 'scale' }
+A555
+AUDIO { type: 'device' } { verb: 'sensed' } { type: 'audio', id: '555', view: 'scale' }
+A553
+AUDIO { type: 'device' } { verb: 'sensed' } { type: 'audio', id: '553', view: 'scale' }
+L952
+LIGHT { type: 'device' } { verb: 'sensed' } { type: 'light', id: '952', view: 'scale' }
+A554
+AUDIO { type: 'device' } { verb: 'sensed' } { type: 'audio', id: '554', view: 'scale' }
+r0
+range { type: 'device' } { verb: 'sensed' } { type: 'range', id: '0', view: 'cm' }
+A553
+AUDIO { type: 'device' } { verb: 'sensed' } { type: 'audio', id: '553', view: 'scale' }
+L951
+LIGHT { type: 'device' } { verb: 'sensed' } { type: 'light', id: '951', view: 'scale' }
+A552
+AUDIO { type: 'device' } { verb: 'sensed' } { type: 'audio', id: '552', view: 'scale' }
+A553
+AUDIO { type: 'device' } { verb: 'sensed' } { type: 'audio', id: '553', view: 'scale' }
+A552
+AUDIO { type: 'device' } { verb: 'sensed' } { type: 'audio', id: '552', view: 'scale' }
+L950
+LIGHT { type: 'device' } { verb: 'sensed' } { type: 'light', id: '950', view: 'scale' }
+A553
+AUDIO { type: 'device' } { verb: 'sensed' } { type: 'audio', id: '553', view: 'scale' }
+A552
+AUDIO { type: 'device' } { verb: 'sensed' } { type: 'audio', id: '552', view: 'scale' }
+L951
+LIGHT { type: 'device' } { verb: 'sensed' } { type: 'light', id: '951', view: 'scale' }
+r0
+range { type: 'device' } { verb: 'sensed' } { type: 'range', id: '0', view: 'cm' }
+A551
+AUDIO { type: 'device' } { verb: 'sensed' } { type: 'audio', id: '551', view: 'scale' }
+A552
+AUDIO { type: 'device' } { verb: 'sensed' } { type: 'audio', id: '552', view: 'scale' }
+A551
+AUDIO { type: 'device' } { verb: 'sensed' } { type: 'audio', id: '551', view: 'scale' }
+L952
+LIGHT { type: 'device' } { verb: 'sensed' } { type: 'light', id: '952', view: 'scale' }
+A552
+AUDIO { type: 'device' } { verb: 'sensed' } { type: 'audio', id: '552', view: 'scale' }
+A551
+AUDIO { type: 'device' } { verb: 'sensed' } { type: 'audio', id: '551', view: 'scale' }
+A552
+AUDIO { type: 'device' } { verb: 'sensed' } { type: 'audio', id: '552', view: 'scale' }
+L951
+LIGHT { type: 'device' } { verb: 'sensed' } { type: 'light', id: '951', view: 'scale' }
+A551
+AUDIO { type: 'device' } { verb: 'sensed' } { type: 'audio', id: '551', view: 'scale' }
+L950
+LIGHT { type: 'device' } { verb: 'sensed' } { type: 'light', id: '950', view: 'scale' }
+L951
+LIGHT { type: 'device' } { verb: 'sensed' } { type: 'light', id: '951', view: 'scale' }
+A552
+AUDIO { type: 'device' } { verb: 'sensed' } { type: 'audio', id: '552', view: 'scale' }
+A551
+AUDIO { type: 'device' } { verb: 'sensed' } { type: 'audio', id: '551', view: 'scale' }
+A552
+AUDIO { type: 'device' } { verb: 'sensed' } { type: 'audio', id: '552', view: 'scale' }
+r0
+range { type: 'device' } { verb: 'sensed' } { type: 'range', id: '0', view: 'cm' }
+A551
+AUDIO { type: 'device' } { verb: 'sensed' } { type: 'audio', id: '551', view: 'scale' }
+A552
+AUDIO { type: 'device' } { verb: 'sensed' } { type: 'audio', id: '552', view: 'scale' }
+L950
+LIGHT { type: 'device' } { verb: 'sensed' } { type: 'light', id: '950', view: 'scale' }
+L951
+LIGHT { type: 'device' } { verb: 'sensed' } { type: 'light', id: '951', view: 'scale' }
+A551
+AUDIO { type: 'device' } { verb: 'sensed' } { type: 'audio', id: '551', view: 'scale' }
+A552
+AUDIO { type: 'device' } { verb: 'sensed' } { type: 'audio', id: '552', view: 'scale' }
+A551
+AUDIO { type: 'device' } { verb: 'sensed' } { type: 'audio', id: '551', view: 'scale' }
+A552
+AUDIO { type: 'device' } { verb: 'sensed' } { type: 'audio', id: '552', view: 'scale' }
+A553
+AUDIO { type: 'device' } { verb: 'sensed' } { type: 'audio', id: '553', view: 'scale' }
+A552
+AUDIO { type: 'device' } { verb: 'sensed' } { type: 'audio', id: '552', view: 'scale' }
+r0
+range { type: 'device' } { verb: 'sensed' } { type: 'range', id: '0', view: 'cm' }
+A554
+AUDIO { type: 'device' } { verb: 'sensed' } { type: 'audio', id: '554', view: 'scale' }
+A552
+AUDIO { type: 'device' } { verb: 'sensed' } { type: 'audio', id: '552', view: 'scale' }
+A550
+AUDIO { type: 'device' } { verb: 'sensed' } { type: 'audio', id: '550', view: 'scale' }
+A552
+AUDIO { type: 'device' } { verb: 'sensed' } { type: 'audio', id: '552', view: 'scale' }
+L950
+LIGHT { type: 'device' } { verb: 'sensed' } { type: 'light', id: '950', view: 'scale' }
+A553
+AUDIO { type: 'device' } { verb: 'sensed' } { type: 'audio', id: '553', view: 'scale' }
+A552
+AUDIO { type: 'device' } { verb: 'sensed' } { type: 'audio', id: '552', view: 'scale' }
+L951
+LIGHT { type: 'device' } { verb: 'sensed' } { type: 'light', id: '951', view: 'scale' }
+r0
+range { type: 'device' } { verb: 'sensed' } { type: 'range', id: '0', view: 'cm' }
+A553
+AUDIO { type: 'device' } { verb: 'sensed' } { type: 'audio', id: '553', view: 'scale' }
+A552
+AUDIO { type: 'device' } { verb: 'sensed' } { type: 'audio', id: '552', view: 'scale' }
+A553
+AUDIO { type: 'device' } { verb: 'sensed' } { type: 'audio', id: '553', view: 'scale' }
