@@ -68,12 +68,12 @@ sp.on('data', function(input) {
 ws.on('open', function() {
     if(!ident) {
       ident = "client_" + makeid();
-      ws.send(JSON.stringify({userName: getID(),data: "foo_" + makeid() + "_dynamic"}));
+      console.log("SET ident", ident);
+      ws.send(JSON.stringify({userName: getID(),type: "sensor"}));
     }
     connected = (!connected)? true : connected;
 });
 ws.on('message', function(message) {
-	console.log("send id", getID());
 	console.log("recieve message", message);
 });
 
