@@ -70,6 +70,7 @@ ws.on('open', function() {
       ident = "client_" + makeid();
       ws.send(JSON.stringify({userName: getID(),data: "foo_" + makeid() + "_dynamic"}));
     }
+    connected = (!connected)? true : connected;
 });
 ws.on('message', function(message) {
 	console.log("send id", getID());
