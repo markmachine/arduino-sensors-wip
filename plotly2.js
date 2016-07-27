@@ -63,7 +63,7 @@ plotly.plot(initdata, initlayout, function (err, msg) {
                 console.log(err, res);
             });
         }
-
+        return streams[dataObj.name];
 
     }
 
