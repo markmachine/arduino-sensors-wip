@@ -59,7 +59,7 @@ plotly.plot(initdata, initlayout, function (err, msg) {
     });
 
     sp.on('data', function(input) {
-        if(isNaN(input) || input > 1023) return;
+        // if(isNaN(input) || input > 1023) return;
         var ttype = input.substr(0,1);
         var value = input.substr(1);
 
