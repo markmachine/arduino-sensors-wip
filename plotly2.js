@@ -82,7 +82,7 @@ plotly.plot(initdata, initlayout, function (err, msg) {
 
         if (loadData) {
             var stream = makeStream(loadData);
-            var streamObject = JSON.stringify( {x: loadData.x, y: loadData.y} );
+            var streamObject = JSON.stringify( {x: loadData.x, y: loadData.y, name: loadData.name} );
             console.log(streamObject);
             stream.write(streamObject+'\n');
         }
