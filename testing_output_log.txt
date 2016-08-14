@@ -1,0 +1,431 @@
+SET ident client_FFZTF
+recieve message 20:13:35 GMT+0000 (UTC)
+recieve message {"userName":"client_FFZTF","type":"sensor"}
+recieve message 20:13:36 GMT+0000 (UTC)
+recieve message {"userName":"client_FFZTF","data":{"type":"motion","verb":"sensed","id":"0","view":"start"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"548","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"549","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"550","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"light","verb":"sensed","id":"372","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"551","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"550","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"549","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"light","verb":"sensed","id":"365","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"550","view":"scale"}}
+recieve message 20:13:37 GMT+0000 (UTC)
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"549","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"550","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"light","verb":"sensed","id":"350","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"549","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"light","verb":"sensed","id":"379","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"550","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"549","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"550","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"light","verb":"sensed","id":"356","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"range","verb":"sensed","id":"12","view":"cm"}}
+recieve message 20:13:38 GMT+0000 (UTC)
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"549","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"light","verb":"sensed","id":"367","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"550","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"549","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"light","verb":"sensed","id":"351","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"light","verb":"sensed","id":"332","view":"scale"}}
+recieve message 20:13:39 GMT+0000 (UTC)
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"550","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"light","verb":"sensed","id":"362","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"551","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"550","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"light","verb":"sensed","id":"368","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"551","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"range","verb":"sensed","id":"2887","view":"cm"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"552","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"551","view":"scale"}}
+recieve message 20:13:40 GMT+0000 (UTC)
+recieve message {"userName":"client_FFZTF","data":{"type":"light","verb":"sensed","id":"379","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"light","verb":"sensed","id":"355","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"550","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"light","verb":"sensed","id":"351","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"551","view":"scale"}}
+recieve message 20:13:41 GMT+0000 (UTC)
+recieve message {"userName":"client_FFZTF","data":{"type":"light","verb":"sensed","id":"381","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"550","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"light","verb":"sensed","id":"352","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"range","verb":"sensed","id":"12","view":"cm"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"551","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"light","verb":"sensed","id":"381","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"550","view":"scale"}}
+recieve message 20:13:42 GMT+0000 (UTC)
+recieve message {"userName":"client_FFZTF","data":{"type":"light","verb":"sensed","id":"350","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"551","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"550","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"light","verb":"sensed","id":"364","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"549","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"range","verb":"sensed","id":"2860","view":"cm"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"550","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"light","verb":"sensed","id":"368","view":"scale"}}
+recieve message 20:13:43 GMT+0000 (UTC)
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"549","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"light","verb":"sensed","id":"376","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"550","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"light","verb":"sensed","id":"349","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"549","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"550","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"549","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"550","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"light","verb":"sensed","id":"356","view":"scale"}}
+recieve message 20:13:44 GMT+0000 (UTC)
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"551","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"550","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"light","verb":"sensed","id":"381","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"range","verb":"sensed","id":"12","view":"cm"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"553","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"552","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"light","verb":"sensed","id":"377","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"550","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"549","view":"scale"}}
+recieve message 20:13:45 GMT+0000 (UTC)
+recieve message {"userName":"client_FFZTF","data":{"type":"light","verb":"sensed","id":"343","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"550","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"light","verb":"sensed","id":"363","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"551","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"549","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"550","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"light","verb":"sensed","id":"383","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"549","view":"scale"}}
+recieve message 20:13:46 GMT+0000 (UTC)
+recieve message {"userName":"client_FFZTF","data":{"type":"light","verb":"sensed","id":"348","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"550","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"range","verb":"sensed","id":"5","view":"cm"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"549","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"550","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"light","verb":"sensed","id":"374","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"551","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"550","view":"scale"}}
+recieve message 20:13:47 GMT+0000 (UTC)
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"551","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"light","verb":"sensed","id":"350","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"550","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"551","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"light","verb":"sensed","id":"372","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"550","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"motion","verb":"sensed","id":"10","view":"end"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"light","verb":"sensed","id":"364","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"551","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"range","verb":"sensed","id":"12","view":"cm"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"550","view":"scale"}}
+recieve message 20:13:48 GMT+0000 (UTC)
+recieve message {"userName":"client_FFZTF","data":{"type":"light","verb":"sensed","id":"372","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"light","verb":"sensed","id":"356","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"551","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"light","verb":"sensed","id":"353","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"550","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"551","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"motion","verb":"sensed","id":"12","view":"start"}}
+recieve message 20:13:49 GMT+0000 (UTC)
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"550","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"light","verb":"sensed","id":"378","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"551","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"550","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"light","verb":"sensed","id":"352","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"551","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"range","verb":"sensed","id":"2844","view":"cm"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"550","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"light","verb":"sensed","id":"383","view":"scale"}}
+recieve message 20:13:50 GMT+0000 (UTC)
+recieve message {"userName":"client_FFZTF","data":{"type":"light","verb":"sensed","id":"375","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"549","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"light","verb":"sensed","id":"350","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"550","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"552","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"549","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"light","verb":"sensed","id":"383","view":"scale"}}
+recieve message 20:13:51 GMT+0000 (UTC)
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"550","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"light","verb":"sensed","id":"364","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"range","verb":"sensed","id":"17","view":"cm"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"light","verb":"sensed","id":"365","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"551","view":"scale"}}
+recieve message 20:13:52 GMT+0000 (UTC)
+recieve message {"userName":"client_FFZTF","data":{"type":"light","verb":"sensed","id":"380","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"552","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"549","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"551","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"550","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"light","verb":"sensed","id":"353","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"551","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"light","verb":"sensed","id":"384","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"550","view":"scale"}}
+recieve message 20:13:53 GMT+0000 (UTC)
+recieve message {"userName":"client_FFZTF","data":{"type":"light","verb":"sensed","id":"355","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"551","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"range","verb":"sensed","id":"14","view":"cm"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"550","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"552","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"551","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"light","verb":"sensed","id":"369","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"550","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"551","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"light","verb":"sensed","id":"363","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"550","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"light","verb":"sensed","id":"351","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"range","verb":"sensed","id":"224","view":"cm"}}
+recieve message 20:13:54 GMT+0000 (UTC)
+recieve message {"userName":"client_FFZTF","data":{"type":"light","verb":"sensed","id":"367","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"551","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"550","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"551","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"light","verb":"sensed","id":"350","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"550","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"549","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"motion","verb":"sensed","id":"18","view":"end"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"550","view":"scale"}}
+recieve message 20:13:55 GMT+0000 (UTC)
+recieve message {"userName":"client_FFZTF","data":{"type":"light","verb":"sensed","id":"354","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"549","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"551","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"549","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"550","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"light","verb":"sensed","id":"365","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"549","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"550","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"548","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"551","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"light","verb":"sensed","id":"381","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"549","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"range","verb":"sensed","id":"2860","view":"cm"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"550","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"motion","verb":"sensed","id":"19","view":"start"}}
+recieve message 20:13:56 GMT+0000 (UTC)
+recieve message {"userName":"client_FFZTF","data":{"type":"light","verb":"sensed","id":"382","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"551","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"550","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"light","verb":"sensed","id":"360","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"light","verb":"sensed","id":"361","view":"scale"}}
+recieve message 20:13:57 GMT+0000 (UTC)
+recieve message {"userName":"client_FFZTF","data":{"type":"light","verb":"sensed","id":"377","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"light","verb":"sensed","id":"354","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"range","verb":"sensed","id":"2850","view":"cm"}}
+recieve message 20:13:58 GMT+0000 (UTC)
+recieve message {"userName":"client_FFZTF","data":{"type":"light","verb":"sensed","id":"380","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"light","verb":"sensed","id":"347","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"549","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"light","verb":"sensed","id":"362","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"548","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"549","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"550","view":"scale"}}
+recieve message 20:13:59 GMT+0000 (UTC)
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"549","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"550","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"549","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"light","verb":"sensed","id":"324","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"range","verb":"sensed","id":"5","view":"cm"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"550","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"551","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"light","verb":"sensed","id":"338","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"549","view":"scale"}}
+recieve message 20:14:00 GMT+0000 (UTC)
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"548","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"549","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"light","verb":"sensed","id":"336","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"550","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"light","verb":"sensed","id":"318","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"549","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"light","verb":"sensed","id":"335","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"550","view":"scale"}}
+recieve message 20:14:01 GMT+0000 (UTC)
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"549","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"light","verb":"sensed","id":"341","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"550","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"range","verb":"sensed","id":"402","view":"cm"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"549","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"light","verb":"sensed","id":"317","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"550","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"549","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"light","verb":"sensed","id":"341","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"550","view":"scale"}}
+recieve message 20:14:02 GMT+0000 (UTC)
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"549","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"light","verb":"sensed","id":"327","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"548","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"549","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"light","verb":"sensed","id":"321","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"552","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"551","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"light","verb":"sensed","id":"346","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"550","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"range","verb":"sensed","id":"5","view":"cm"}}
+recieve message 20:14:03 GMT+0000 (UTC)
+recieve message {"userName":"client_FFZTF","data":{"type":"light","verb":"sensed","id":"316","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"551","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"550","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"light","verb":"sensed","id":"347","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"motion","verb":"sensed","id":"27","view":"end"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"551","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"light","verb":"sensed","id":"324","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"550","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"551","view":"scale"}}
+recieve message 20:14:04 GMT+0000 (UTC)
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"550","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"light","verb":"sensed","id":"339","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"551","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"light","verb":"sensed","id":"334","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"550","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"range","verb":"sensed","id":"403","view":"cm"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"549","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"550","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"light","verb":"sensed","id":"329","view":"scale"}}
+recieve message 20:14:05 GMT+0000 (UTC)
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"551","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"552","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"550","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"light","verb":"sensed","id":"346","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"range","verb":"sensed","id":"403","view":"cm"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"551","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"light","verb":"sensed","id":"317","view":"scale"}}
+recieve message 20:14:06 GMT+0000 (UTC)
+recieve message {"userName":"client_FFZTF","data":{"type":"light","verb":"sensed","id":"339","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"549","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"550","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"light","verb":"sensed","id":"341","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"motion","verb":"sensed","id":"30","view":"start"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"light","verb":"sensed","id":"316","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"551","view":"scale"}}
+recieve message 20:14:07 GMT+0000 (UTC)
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"550","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"551","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"light","verb":"sensed","id":"332","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"550","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"range","verb":"sensed","id":"404","view":"cm"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"551","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"light","verb":"sensed","id":"345","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"550","view":"scale"}}
+recieve message 20:14:08 GMT+0000 (UTC)
+recieve message {"userName":"client_FFZTF","data":{"type":"light","verb":"sensed","id":"316","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"551","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"550","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"light","verb":"sensed","id":"332","view":"scale"}}
+recieve message 20:14:09 GMT+0000 (UTC)
+recieve message {"userName":"client_FFZTF","data":{"type":"range","verb":"sensed","id":"401","view":"cm"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"light","verb":"sensed","id":"319","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"549","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"550","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"light","verb":"sensed","id":"326","view":"scale"}}
+recieve message 20:14:10 GMT+0000 (UTC)
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"549","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"light","verb":"sensed","id":"341","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"550","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"light","verb":"sensed","id":"319","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"549","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"motion","verb":"sensed","id":"33","view":"end"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"550","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"light","verb":"sensed","id":"347","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"range","verb":"sensed","id":"401","view":"cm"}}
+recieve message 20:14:11 GMT+0000 (UTC)
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"551","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"550","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"light","verb":"sensed","id":"331","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"549","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"550","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"549","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"light","verb":"sensed","id":"320","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"550","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"551","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"552","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"550","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"light","verb":"sensed","id":"344","view":"scale"}}
+recieve message 20:14:12 GMT+0000 (UTC)
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"548","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"550","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"light","verb":"sensed","id":"317","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"551","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"552","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"550","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"551","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"light","verb":"sensed","id":"347","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"range","verb":"sensed","id":"402","view":"cm"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"550","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"light","verb":"sensed","id":"335","view":"scale"}}
+recieve message 20:14:13 GMT+0000 (UTC)
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"549","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"light","verb":"sensed","id":"317","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"550","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"light","verb":"sensed","id":"344","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"549","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"light","verb":"sensed","id":"339","view":"scale"}}
+recieve message 20:14:14 GMT+0000 (UTC)
+recieve message {"userName":"client_FFZTF","data":{"type":"light","verb":"sensed","id":"319","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"range","verb":"sensed","id":"401","view":"cm"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"550","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"549","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"light","verb":"sensed","id":"348","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"550","view":"scale"}}
+recieve message 20:14:15 GMT+0000 (UTC)
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"549","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"550","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"light","verb":"sensed","id":"319","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"549","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"550","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"551","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"light","verb":"sensed","id":"347","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"550","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"551","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"light","verb":"sensed","id":"322","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"550","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"range","verb":"sensed","id":"402","view":"cm"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"549","view":"scale"}}
+recieve message 20:14:16 GMT+0000 (UTC)
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"550","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"light","verb":"sensed","id":"344","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"551","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"light","verb":"sensed","id":"324","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"549","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"550","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"light","verb":"sensed","id":"342","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"range","verb":"sensed","id":"401","view":"cm"}}
+recieve message 20:14:17 GMT+0000 (UTC)
+recieve message {"userName":"client_FFZTF","data":{"type":"light","verb":"sensed","id":"324","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"549","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"550","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"light","verb":"sensed","id":"319","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"551","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"550","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"light","verb":"sensed","id":"343","view":"scale"}}
+recieve message 20:14:18 GMT+0000 (UTC)
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"551","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"light","verb":"sensed","id":"332","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"550","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"549","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"550","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"551","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"light","verb":"sensed","id":"317","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"range","verb":"sensed","id":"403","view":"cm"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"550","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"551","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"light","verb":"sensed","id":"332","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"550","view":"scale"}}
+recieve message 20:14:19 GMT+0000 (UTC)
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"551","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"552","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"light","verb":"sensed","id":"347","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"551","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"548","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"547","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"light","verb":"sensed","id":"332","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"550","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"549","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"light","verb":"sensed","id":"318","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"550","view":"scale"}}
+recieve message 20:14:20 GMT+0000 (UTC)
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"549","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"audio","verb":"sensed","id":"550","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"light","verb":"sensed","id":"338","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"range","verb":"sensed","id":"402","view":"cm"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"light","verb":"sensed","id":"322","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"motion","verb":"sensed","id":"44","view":"start"}}
+recieve message 20:14:21 GMT+0000 (UTC)
+recieve message {"userName":"client_FFZTF","data":{"type":"light","verb":"sensed","id":"332","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"light","verb":"sensed","id":"330","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"light","verb":"sensed","id":"333","view":"scale"}}
+recieve message 20:14:22 GMT+0000 (UTC)
+recieve message {"userName":"client_FFZTF","data":{"type":"light","verb":"sensed","id":"322","view":"scale"}}
+recieve message {"userName":"client_FFZTF","data":{"type":"range","verb":"sensed","id":"120","view":"cm"}}
